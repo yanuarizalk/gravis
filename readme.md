@@ -25,19 +25,9 @@ Including:
 2. Mysql
 
 3. PDO Driver
-   
-   
 
 For Database & auth settings, edit it in config.php
 
 <hr>
 
-
-
 Logo belong to [Gravis-Design.com](https://gravis-design.com)
-
-
-
-
-
-
